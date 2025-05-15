@@ -12,7 +12,7 @@ A Java-based desktop application that calculates the factorial of a number using
 - ✅ Iterative and Recursive factorial calculation
 - ✅ Result display below input
 - ✅ MySQL database integration using JDBC
-- ✅ View calculation history in a tabular format (`JTable`)
+- ✅ View calculation history 
 
 ---
 
